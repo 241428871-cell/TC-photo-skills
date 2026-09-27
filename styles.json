@@ -3,9 +3,9 @@
   "collection": "TC-photo-skills",
   "styles": [
     {
-      "id": "tc-photo-postcard-back",
-      "display_name": "TC-photo-postcard-back",
-      "skill_path": "skills/tc-photo-postcard-back/SKILL.md",
+      "id": "tc-photo-postcard-1",
+      "display_name": "TC-photo-postcard-1",
+      "skill_path": "skills/tc-photo-postcard-1/SKILL.md",
       "summary": "原比例钢笔淡彩旅行手账，氛围底色、自然晕染、手写英文与原图四色卡。",
       "keywords": [
         "钢笔淡彩",

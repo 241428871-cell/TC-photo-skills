@@ -6,7 +6,7 @@
 
 | 风格 | 调用名 | 效果 | 适用场景 |
 | --- | --- | --- | --- |
-| [TC-photo-postcard-back](skills/tc-photo-postcard-back/SKILL.md) | `tc-photo-postcard-back` | 黑色细钢笔、通透淡彩、自然晕染、手写英文、原图四色卡 | 城市、旅行、日景、夜景与冷暖风景 |
+| [TC-photo-postcard-1](skills/tc-photo-postcard-1/SKILL.md) | `tc-photo-postcard-1` | 黑色细钢笔、通透淡彩、自然晕染、手写英文、原图四色卡 | 城市、旅行、日景、夜景与冷暖风景 |
 
 完整选择目录：[STYLES.md](STYLES.md)。当前仅包含一个已实现的绘画风格。
 
@@ -18,13 +18,13 @@
 
 集合入口位于仓库根目录。使用 Codex skill-installer 时，根目录 path 为 `.`，name 为 `tc-photo-skills`。整个目录一起安装后，入口可以读取内置风格目录和子 Skill。
 
-只安装单个风格时，指定路径 `skills/tc-photo-postcard-back`。
+只安装单个风格时，指定路径 `skills/tc-photo-postcard-1`。
 
 上传照片后可以说：
 
 - “使用 $tc-photo-skills，列出当前可选风格。”
-- “使用 $tc-photo-skills，选择 TC-photo-postcard-back 处理这张照片。”
-- 独立安装后：“使用 $tc-photo-postcard-back，把这张夜景做成钢笔淡彩旅行手账。”
+- “使用 $tc-photo-skills，选择 TC-photo-postcard-1 处理这张照片。”
+- 独立安装后：“使用 $tc-photo-postcard-1，把这张夜景做成钢笔淡彩旅行手账。”
 
 需要支持参考图编辑的图像生成工具。本项目提供提示词与工作流，不包含模型、API 密钥或独立绘图程序。没有可用图像工具时，助手应交付提示词并说明限制。
 
@@ -47,6 +47,6 @@
 
 ## 来源与许可
 
-TC-photo-postcard-back 根据用户提供并在夜景试作中选定的钢笔淡彩提示词整理。原始文字保存在子 Skill 的 references 中。本集合没有复制 photo-relic-editorial 的实现，也不依赖该 Skill。
+TC-photo-postcard-1 根据用户提供并在夜景试作中选定的钢笔淡彩提示词整理。原始文字保存在子 Skill 的 references 中。本集合没有复制 photo-relic-editorial 的实现，也不依赖该 Skill。
 
 MIT License，见 [LICENSE](LICENSE)。仓库不包含用户的原始照片、定位信息或个人素材；使用者应自行确认输入素材的使用权。
