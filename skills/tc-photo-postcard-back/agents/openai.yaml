@@ -1,0 +1,4 @@
+interface:
+  display_name: "TC-photo-postcard-back"
+  short_description: "将照片转成原比例钢笔淡彩旅行手账，融合自然晕染、手写文字与四色卡"
+  default_prompt: "使用 $tc-photo-postcard-back 将这张照片制作成钢笔淡彩旅行手账插画。"
