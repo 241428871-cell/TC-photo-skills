@@ -10,15 +10,83 @@
       "keywords": [
         "钢笔淡彩",
         "旅行手账",
-        "水彩明信片",
-        "pen and watercolor",
-        "travel journal"
+        "水彩明信片"
       ],
       "suitable_for": [
-        "城市风景",
-        "夜景",
-        "暖色日景",
-        "冷色风景"
+        "城市",
+        "旅行",
+        "冷暖风景"
+      ]
+    },
+    {
+      "id": "tc-photo-postcard-2",
+      "display_name": "tc-photo-postcard-2 · 独立动态版画",
+      "skill_path": "skills/tc-photo-postcard-2/SKILL.md",
+      "summary": "独立明信片、超现实极简版画、单一动态场与严格两至三色印刷。适用于只要艺术明信片、不拼接原片的请求。",
+      "keywords": [
+        "独立动态版画",
+        "动态场",
+        "Risograph",
+        "只要明信片"
+      ],
+      "suitable_for": [
+        "城市",
+        "建筑",
+        "自然",
+        "旅行照片"
+      ]
+    },
+    {
+      "id": "tc-photo-postcard-3",
+      "display_name": "tc-photo-postcard-3 · 独立艺术重绘",
+      "skill_path": "skills/tc-photo-postcard-3/SKILL.md",
+      "summary": "将照片重绘为柔和纸面艺术明信片，保留主体结构与前后景，细节适度简化。适用于比超简版更丰富的独立重绘。",
+      "keywords": [
+        "独立艺术重绘",
+        "独立重绘",
+        "纸面插画"
+      ],
+      "suitable_for": [
+        "城市",
+        "建筑",
+        "自然",
+        "旅行照片"
+      ]
+    },
+    {
+      "id": "tc-photo-postcard-4",
+      "display_name": "tc-photo-postcard-4 · 超简记忆版画",
+      "skill_path": "skills/tc-photo-postcard-4/SKILL.md",
+      "summary": "用极少数印迹提炼照片主体及空间关系，生成大留白的独立超简明信片。适用于极简、几笔概括、记忆印章效果。",
+      "keywords": [
+        "超简记忆版画",
+        "超简",
+        "少量印迹",
+        "大留白"
+      ],
+      "suitable_for": [
+        "城市",
+        "建筑",
+        "自然",
+        "旅行照片"
+      ]
+    },
+    {
+      "id": "tc-photo-postcard-5",
+      "display_name": "tc-photo-postcard-5 · 原片＋动态版画对半海报",
+      "skill_path": "skills/tc-photo-postcard-5/SKILL.md",
+      "summary": "将每张照片制作成 3:4 竖版双区海报，上方原片与下方超现实动态版画严格各占一半。仅用于明确需要保留原片对照的请求。",
+      "keywords": [
+        "原片＋动态版画对半海报",
+        "50/50",
+        "原片对照",
+        "上下对半"
+      ],
+      "suitable_for": [
+        "城市",
+        "建筑",
+        "自然",
+        "旅行照片"
       ]
     }
   ]
