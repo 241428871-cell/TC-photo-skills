@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "collection": "TC-photo-skills",
+  "styles": [
+    {
+      "id": "tc-photo-postcard-back",
+      "display_name": "TC-photo-postcard-back",
+      "skill_path": "skills/tc-photo-postcard-back/SKILL.md",
+      "summary": "原比例钢笔淡彩旅行手账，氛围底色、自然晕染、手写英文与原图四色卡。",
+      "keywords": [
+        "钢笔淡彩",
+        "旅行手账",
+        "水彩明信片",
+        "pen and watercolor",
+        "travel journal"
+      ],
+      "suitable_for": [
+        "城市风景",
+        "夜景",
+        "暖色日景",
+        "冷色风景"
+      ]
+    }
+  ]
+}
