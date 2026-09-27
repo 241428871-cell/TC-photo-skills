@@ -22,7 +22,7 @@
       "id": "tc-photo-postcard-2",
       "display_name": "tc-photo-postcard-2 · 独立动态版画",
       "skill_path": "skills/tc-photo-postcard-2/SKILL.md",
-      "summary": "独立明信片、超现实极简版画、单一动态场与严格两至三色印刷。适用于只要艺术明信片、不拼接原片的请求。",
+      "summary": "原图比例独立明信片、超现实极简版画、单一动态场与严格两至三色印刷。适用于只要艺术明信片、不拼接原片的请求。",
       "keywords": [
         "独立动态版画",
         "动态场",
@@ -40,7 +40,7 @@
       "id": "tc-photo-postcard-3",
       "display_name": "tc-photo-postcard-3 · 独立艺术重绘",
       "skill_path": "skills/tc-photo-postcard-3/SKILL.md",
-      "summary": "将照片重绘为柔和纸面艺术明信片，保留主体结构与前后景，细节适度简化。适用于比超简版更丰富的独立重绘。",
+      "summary": "按原图比例将照片重绘为柔和纸面艺术明信片，保留主体结构与前后景，细节适度简化。适用于比超简版更丰富的独立重绘。",
       "keywords": [
         "独立艺术重绘",
         "独立重绘",
@@ -57,7 +57,7 @@
       "id": "tc-photo-postcard-4",
       "display_name": "tc-photo-postcard-4 · 超简记忆版画",
       "skill_path": "skills/tc-photo-postcard-4/SKILL.md",
-      "summary": "用极少数印迹提炼照片主体及空间关系，生成大留白的独立超简明信片。适用于极简、几笔概括、记忆印章效果。",
+      "summary": "保持原图比例，用极少数印迹提炼照片主体及空间关系，生成大留白的独立超简明信片。适用于极简、几笔概括、记忆印章效果。",
       "keywords": [
         "超简记忆版画",
         "超简",

@@ -3,9 +3,9 @@
 | 调用名 | 风格 | 画幅 | 是否包含原片 |
 | --- | --- | --- | --- |
 | [tc-photo-postcard-1](skills/tc-photo-postcard-1/SKILL.md) | 钢笔淡彩旅行手账 | 原图比例 | 否 |
-| [tc-photo-postcard-2](skills/tc-photo-postcard-2/SKILL.md) | 独立动态版画 | 3:4 竖版 | 否 |
-| [tc-photo-postcard-3](skills/tc-photo-postcard-3/SKILL.md) | 独立艺术重绘 | 3:4 竖版 | 否 |
-| [tc-photo-postcard-4](skills/tc-photo-postcard-4/SKILL.md) | 超简记忆版画 | 3:4 竖版 | 否 |
+| [tc-photo-postcard-2](skills/tc-photo-postcard-2/SKILL.md) | 独立动态版画 | 原图比例 | 否 |
+| [tc-photo-postcard-3](skills/tc-photo-postcard-3/SKILL.md) | 独立艺术重绘 | 原图比例 | 否 |
+| [tc-photo-postcard-4](skills/tc-photo-postcard-4/SKILL.md) | 超简记忆版画 | 原图比例 | 否 |
 | [tc-photo-postcard-5](skills/tc-photo-postcard-5/SKILL.md) | 原片＋动态版画对半海报 | 3:4 竖版 | 是，上半部 50% |
 
 ## 怎么选
