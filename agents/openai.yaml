@@ -1,0 +1,4 @@
+interface:
+  display_name: "TC-photo-skills"
+  short_description: "选择照片艺术风格，将参考照片转换为可持续扩展系列中的旅行插画"
+  default_prompt: "使用 $tc-photo-skills 列出可选风格，并按我选择的风格处理照片。"
